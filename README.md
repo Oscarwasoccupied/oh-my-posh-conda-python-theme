@@ -1,4 +1,4 @@
-# Conda/Python Theme Based on Montys Theme
+# Conda/Python Theme Theme for Oh-My-Posh
 
 This theme is based on the [Montys Theme](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/montys.omp.json) for [Oh-My-Posh](https://ohmyposh.dev) and includes a display for Python/Anaconda virtual environments.
 
