@@ -1,6 +1,6 @@
-Conda/Python Theme Based on Montys Theme
+# Conda/Python Theme Based on Montys Theme
 
-This theme is based on Montys and includes a display for Python/Anaconda virtual environments.
+This theme is based on the Montys Theme for Oh-My-Posh and includes a display for Python/Anaconda virtual environments.
 
 Installation Instructions
 
