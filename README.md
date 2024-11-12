@@ -9,5 +9,5 @@ Installation Instructions
 
 `export POSH_THEME='/data/homezvol2/xianwz2/.cache/oh-my-posh/themes/montys_conda.omp.json'`
 
-Save the changes and restart your terminal to apply the new theme.
+Save the changes and restart your terminal to apply the new theme, you will see something line
 ![Montys Theme Preview](montys.png)
